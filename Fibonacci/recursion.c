@@ -4,6 +4,7 @@
 
 // calling functions
 void fibonacci(int amount);
+// helo there
 
 int main(void)
 {
