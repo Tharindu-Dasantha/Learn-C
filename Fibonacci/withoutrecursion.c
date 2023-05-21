@@ -17,9 +17,11 @@ int main(void)
             second = third;
             printf(", %d", third);
         }
+        printf("\n");
     }
     else {
         printf("Invalid amount");
+        printf("\n");
         return 1;
     }
 }
